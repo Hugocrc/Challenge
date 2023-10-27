@@ -1,4 +1,4 @@
-# ChallengeXPandIT
+# Challenge
 
 ## Passos para Compilar e Executar o Aplicativo:
 ### 1. Preparar o Banco de Dados:
@@ -14,5 +14,3 @@
 ### 3. Testar o Aplicativo:
 #### 3.1. Abra o Postman (ou outra ferramenta de teste de API).
 #### 3.2. Faça solicitações HTTP para as rotas do seu aplicativo para testar as funcionalidades.
-
-Aproveito para acrescentar que gostaria de ter conseguido melhorar o challenge, uma vez que tem um pequeno erro (mais para a frente explicarei), mas de resto está tudo corretamente funcional. Gostaria ter conseguido melhorar o meu código já que há aspetos a melhorar, mas como foi o meu primeiro contacto com maior parte das coisas, acabei por perder algum tempo só a corrigir erros. O erro está no método que cria um filme, em que apenas queria incrementar o id para seguir uma sequência organizada e criava o filme com um id enorme, se depois me conseguirem explicar agradeçia.
